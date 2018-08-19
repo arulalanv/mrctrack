@@ -30,22 +30,15 @@ __________
 
 For the actual tracking code, check out the 'tracker_fea' function.
 
-*************** Source code TNNLS 2018 **************************
-
 *************** Please cite our related works **************************
 1) B. Ma, H. Hu, J. Shen, and L. Shao, 
 Manifold regularized correlation object tracking, 
 IEEE Trans. on Neural Networks and Learning Systems, 29(5):1786-1795, 2018
-2) B. Ma, H. Hu, J. Shen, Y. Liu, and L. Shao, Generalized pooling for robust object tracking,  
-IEEE Trans. on Image Processing,  25(9): 4199-4208, 2016 
+2) X. Dong, J. Shen, D. Yu, W. Wang, J. Liu, and H. Huang, 
+Occlusion-aware real-time object tracking, IEEE Trans. on Multimedia, 19(4):763-771, 2017 
 3) B. Ma, H. Hu,  J. Shen, Y. Liu, and L. Shao, Generalized pooling for robust object tracking,  
 IEEE Trans. on Image Processing,  25(9): 4199-4208, 2016 
 4) B. Ma, J. Shen*, Y. Liu, H. Hu, L. Shao, and X. Li, 
 Visual tracking using strong classifier and structural local sparse descriptors,  
 IEEE Trans. on Multimedia, 17(10):1818-1828, 2015 
 *************** Many Thanks **************************
-
-B. Ma, H. Hu, J. Shen, and L. Shao, 
-Manifold regularized correlation object tracking, 
-IEEE Trans. on Neural Networks and Learning Systems, 29(5):1786-1795, 2018
-*************** Source code TNNLS 2018 **************************
